@@ -1,0 +1,3 @@
+# Main Tracking Module 
+
+The hand tracking module has 21 distinct points on each hand. These points each identify different positions in our hands.
